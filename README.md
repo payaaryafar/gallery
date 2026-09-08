@@ -117,7 +117,10 @@ You will need your own API key to run the project.
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-
+1. Clone the repository:
+```bash
+git clone https://github.com/payaaryafar/Gallery.git
+```
 ### 2. Open the project
 
 Open the project folder in VS Code.
